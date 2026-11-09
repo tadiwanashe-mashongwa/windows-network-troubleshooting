@@ -75,3 +75,33 @@ During the exercises, I identified:
 - Physical versus virtual network adapters.
 - ARP address resolution.
 - How Windows determines where to send network traffic.
+
+
+  ## Project Documentation
+
+The project is organised into practical guides covering different areas of Windows network troubleshooting.
+
+| Documentation | Topics |
+|---|---|
+| [Network Configuration](docs/01-network-configuration.md) | IP addressing, network adapters, routing and ARP |
+| [DNS Troubleshooting](docs/02-dns-troubleshooting.md) | DNS resolution, DNS records and caching |
+| [Connectivity Testing](docs/03-connectivity-testing.md) | Ping, tracert and pathping |
+| [TCP Ports and Processes](docs/04-tcp-ports-and-processes.md) | TCP connectivity, listening ports and process identification |
+| [Troubleshooting Scenarios](docs/05-troubleshooting-scenarios.md) | Practical Help Desk network troubleshooting cases |
+
+## Learning Outcomes
+
+Through these practical exercises, I developed familiarity with:
+
+- Inspecting Windows network configurations.
+- Understanding IPv4, subnet masks and default gateways.
+- Investigating DNS resolution and caching.
+- Testing network connectivity and tracing routes.
+- Identifying TCP listening ports and associated processes.
+- Applying a structured approach to network troubleshooting.
+
+## Environment
+
+The exercises were performed on a Windows computer using Windows PowerShell, Command Prompt and built-in Windows diagnostic utilities.
+
+The results documented in this repository are based on practical exercises and observations from the lab environment.

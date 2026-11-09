@@ -8,6 +8,15 @@ The goal is to develop practical IT Help Desk skills by learning how to inspect 
 
 The exercises are based on practical testing and realistic technical support scenarios.
 
+## Practical Evidence
+
+### Network Configuration
+
+The following screenshot shows the Wi-Fi adapter configuration
+collected using `ipconfig /all`.
+
+![Windows Network Configuration](screenshots/network-configuration/ipconfig-all.png)
+
 ## Technologies and Tools
 
 The following tools and utilities were used throughout the practical exercises:
